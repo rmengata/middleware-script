@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: Benjamin 
+# Author: Robertson Mengata 
 # Date: June 2022
 
 ## This script is for installing Docker on Centos7
