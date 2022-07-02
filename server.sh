@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: Benjamin Tagnan
+# Author: Robertson Mengata
 # Date: June 2022
 # This is an automated server installation using a personalized IP address.
 # You can personalize the directory name if needed.
