@@ -1,5 +1,5 @@
 #!/bin/bash
-# AUTHOR: Benjamin
+# AUTHOR: Robertson Mengata
 # DATE: June 2022
 ## This script performs a full system inventory and provides a file that contains the inventory report.
 
