@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: Benjamin
+# Author: Robertson Mengata
 # Date: June 2022
 
 # ______QA/UAT java1.8 app deployment
