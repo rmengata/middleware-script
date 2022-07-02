@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# AUTHOR: Benjamin
+# AUTHOR: Robertson Mengata
 # DATE: June 2022
 # This apache installation script is intended to be run on a Centos OS.
 #  Please install a Centos VM first before running this script on it.
