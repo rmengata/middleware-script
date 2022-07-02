@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: Benjamin Tagnan
+# Author: Robertson Mengata
 # Date: June 2022
 # This is an automaded Jenkins installation with exit codes to ensure an errorless installation. 
 # You need to create a personalized VM first and then run this script to install the latest Jenkins on it.
