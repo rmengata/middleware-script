@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Author: Benjamin 
+# Author: Robertson Mengata 
 # Date: June 2022
 
 ## This script is for installing Docker on Ubuntu (Jammy 22.04 (LTS), Impish 21.10, Focal 20.04 (LTS), or Bionic 18.04 (LTS))
